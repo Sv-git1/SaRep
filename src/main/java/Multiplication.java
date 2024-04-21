@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Multiplication {
+public class Multiplication { public int multiply(int a, int b){
+    return a*b;
+}
+
 }
